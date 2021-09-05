@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tak3333
+- 👀 I’m interested in Making Games
+- 🌱 I’m currently learning C#
